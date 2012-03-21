@@ -10,7 +10,15 @@ See {the documentation}[https://github.com/pails/pails/wikis].
 
 == Links
 
-* pails
+* pails ( Python on Pails )
   * {GitHub}[https://github.com/pails/pails]
+* piles ( Database ORM sub project of Python on Pails )
+  * {GitHub}[https://github.com/pails/piles]
 * author's
   * {pails}[http://pails.github.com/pails/]
+  * {piles}[http://pails.github.com/piles/]
+
+== CAUTION
+
+Sub directory './piles' is a submodule origin 'git://github.com/pails/piles.git'.
+When you will modify any files in './piles' folder, you must checkout 'piles' sub project.
